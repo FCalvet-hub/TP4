@@ -11,7 +11,7 @@
 
 /*! @brief  Type definition for an E-Board UART buffer.
  *
- * This structure combines a ring buffer and a pre-allocated buffer for
+ * This structure combines/*! @b a ring buffer and a pre-allocated buffer for
  * efficient UART communication.
  */
 typedef struct {
